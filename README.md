@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardRuitaoZhang)](https://github.com/anuraghazra/github-readme-stats)
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardRuitaoZhang&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardRuitaoZhang)](https://github.com/anuraghazra/github-readme-stats)
