@@ -73,5 +73,5 @@ Automated generation of genome-indexed pLDDT and structural confidence tracks.
 **Thank you for visiting my profile!**  
 If you're interested in computational genomics, ncORFs, or immuno-oncology, feel free to reach out!
 
-![](https://raw.githubusercontent.com/RichardRuitaoZhang/RichardRuitaoZhang/main/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/RichardRuitaoZhang/RichardRuitaoZhang/main/profile-summary-card-output/default/0-profile-details.svg)
 
