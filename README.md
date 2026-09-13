@@ -1,4 +1,4 @@
-# Hi, I'm Ruitao Zhang 👋
+# Hi, I'm Ruitao Zhang
 
 *PhD Student in Biomedical Engineering @ Northwestern University*
 *Computational Genomics • Graph Representation Learning • Spatial Proteomics • Cancer Biology*
